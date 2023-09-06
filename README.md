@@ -1,4 +1,4 @@
-# go-log-headers
+# Go-log-headers
 
 **go-log-headers** is a straightforward Golang application designed to log HTTP request headers in JSON format to the standard output (stdout).
 
